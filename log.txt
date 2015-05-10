@@ -1,1 +1,10 @@
-start 5/7 3:21
+Start: Thur, 7 May 2015 15:05:00 -0800
+End: Thur, 7 May 2015 20:00:00 -0800
+Tasks: During this period I created the database and fidured out how to accses that information,
+I also completed the portion that sent data to and recieved data from the database.  Lastly I created the
+form for input from the user.  
+
+Start: Sun, 9 May 2015 15:05:00 -0800
+End: Thur, 10 May 2015 3:00:00 -0800
+Tasks: During this period I completed the section of the code that populated the table
+as well as the delete row and rent sections, finishing the project. 
